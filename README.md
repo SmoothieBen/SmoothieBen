@@ -3,7 +3,7 @@
 <br>-
 🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in software development and business.<br>- 
 👨🏻‍💻 I have nearly a year of working experiences in software testing at a tech company...<br>- 
-🛠 I'm looking forward to develop my skills to become a <u>fullstack data specialist</u>. I love data... bs, may be a <u>fullstack software engineer</u> too? cause why not?
+🛠 I'm looking forward to develop my skills to become a ***fullstack data specialist***. I love data... bs, may be a ***fullstack software engineer*** too? cause why not?
 
 
 ## 🌐 Socials:
