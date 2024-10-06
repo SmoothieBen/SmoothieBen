@@ -1,5 +1,8 @@
 # 💫 About Me:
-## Hi there, I'm Benjamin 👋<br><br>- 🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in software devlopment and businesses.<br>- 👨🏻‍💻 I've 8 months of working experiences in software testing at a tech company...<br>- 🛠 I'm looking forward to develop my skills to become a fullstack data specialist. 
+## Hi there, I'm Benjamin 👋<br><br>- 
+🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in software devlopment and businesses.<br>- 
+👨🏻‍💻 I've 8 months of working experiences in software testing at a tech company...<br>- 
+🛠 I'm looking forward to develop my skills to become a fullstack data specialist. 
 
 
 ## 🌐 Socials:
