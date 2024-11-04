@@ -5,7 +5,7 @@
 <br>-
 👨🏻‍💻 I have nearly a year of working experiences in software testing at a tech company...
 <br>-
-🛠 I'm looking forward to develop my skills to become a ***Data + AI specialist*** 😜 and also continuously learning new things.
+🛠 I'm looking forward to develop my skills to become a ***Data & AI specialist*** 😜 and also continuously learning new things.
 
 
 ## 🌐 Socials:
