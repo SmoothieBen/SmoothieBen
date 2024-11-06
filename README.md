@@ -15,14 +15,16 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=white&labelColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Canva-%2300C4CC?style=flat&logo=canva&logoColor=white&labelColor=white&logoWidth=20" />
+</p>
 
 
 # 🌟 Currently Learning:
