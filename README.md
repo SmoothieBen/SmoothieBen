@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi there, I'm Benjamin 👋
+# 🌀 About Me:
+## Hi there, I'm Benjamin 🧙
 <br>-
 🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in __making Software products__ and __business development__.
 <br>
