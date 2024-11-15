@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Hi there, I'm Benjamin 👋
 <br>-
-🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in __Data Science, AI__ and __business development__.
+🎓 I'm currently a freshman year KMUTT computer engineering student with a keen interest in __making Software products__ and __business development__.
 <br>-
 👨🏻‍💻 I have nearly a year of working experiences in software testing at a tech company...
 <br>-
-🛠 I'm looking forward to develop my skills to become a ***Data & AI specialist*** 😜 and also continuously learning new things.
+🛠 I'm looking forward to develop my skills to become a ***Developer*** 😜 specialize in Web Application, data science and also continuously learning new things.
 
 
 ## 🌐 Socials:
