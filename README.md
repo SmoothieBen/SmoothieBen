@@ -14,7 +14,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbxn.dg)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035896206609&locale=th_TH) [![Kaggle](https://img.shields.io/badge/Kaggle-%2305C3DE.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/benjamindg)
 
 # 💻 Tech Stack:
-![HTML](assets/html-5.png)
+<div align="center">
+  <img src="assets/html-5.png" alt="HTML" width="50" />
+  <img src="assets/css-3.png" alt="CSS" width="50" />
+  <img src="assets/js.png" alt="Js" width="50" />
+</div>
 
 # 📊 Tech Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmoothieBen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
