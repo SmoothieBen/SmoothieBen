@@ -15,6 +15,9 @@
 
 # 💻 Tech Stack:
 <img src="assets/html-5.png" alt="HTML" width="50" /> <img src="assets/css-3.png" alt="CSS" width="50" /> <img src="assets/js.png" alt="JavaScript" width="50" /> <img src="assets/c.png" alt="C" width="50" /> <img src="assets/python.png" alt="Python" width="50" /> <img src="assets/MySQL.png" alt="MySQL" width="50" /> <img src="assets/jira.png" alt="Jira" width="50" /> <img src="assets/figma.png" alt="Figma" width="50" />
+# 💻 Tech I'd like to learn:
+<img src="assets/reactjs.png" alt="React" width="50" /> <img src="assets/typescript.png" alt="Typescript" width="50" /> <img src="assets/nextjs.jpg" alt="Nextjs" width="50" /> <img src="assets/tailwind.png" alt="Tailwind" width="50" /> <img src="assets/go.jpg" alt="GO" width="50" />
+
 
 
 
