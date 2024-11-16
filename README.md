@@ -15,9 +15,9 @@
 
 # 💻 Tech Stack:
 ### Tech Stack:
-<img src="assets/html.svg" alt="HTML" width="50" />
-<img src="assets/css.svg" alt="CSS" width="50" />
-<img src="assets/javascript.svg" alt="JavaScript" width="50" />
+<img src="assets/html.png" alt="HTML" width="50" />
+<img src="assets/css.png" alt="CSS" width="50" />
+<img src="assets/javascript.png" alt="JavaScript" width="50" />
 
 
 
