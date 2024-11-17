@@ -7,7 +7,7 @@
 👨🏻‍💻 I have nearly a year of working experiences in __software testing__ at a tech company...
 <br>
 <br>-
-🛠 I'm looking forward to develop my skills to become a ***Developer*** 😜 specialize in __Frontend Web Application, Data science & AI__ and also continuously learning new things.
+🛠 I'm looking forward to develop my skills to become a ***Developer*** 😜 specialize in __Frontend Development, Data science & AI__ and also continuously learning new things.
 
 
 ## 🌐 Socials:
