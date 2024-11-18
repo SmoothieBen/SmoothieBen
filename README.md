@@ -11,8 +11,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbxn.dg)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035896206609&locale=th_TH) [![Kaggle](https://img.shields.io/badge/Kaggle-%2305C3DE.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/benjamindg)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbxn.dg)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035896206609&locale=th_TH)
 # 💻 Tech Stack:
 <img src="assets/html-5.png" alt="HTML" width="50" /> <img src="assets/css-3.png" alt="CSS" width="50" /> <img src="assets/js.png" alt="JavaScript" width="50" /> <img src="assets/c.png" alt="C" width="50" /> <img src="assets/python.png" alt="Python" width="50" /> <img src="assets/MySQL.png" alt="MySQL" width="50" /> <img src="assets/jira.png" alt="Jira" width="50" /> <img src="assets/figma.png" alt="Figma" width="50" />
 # 💻 Tech I'd like to learn:
