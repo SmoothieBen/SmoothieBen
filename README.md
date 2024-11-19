@@ -2,12 +2,6 @@
 ## Hi there, I'm Benjamin 🧙
 <br>-
 🎓 I'm currently a freshman year __@KMUTT Computer Engineering__ student with a keen interest in __making Software products__ and __business development__.
-<br>
-<br>-
-👨🏻‍💻 I have nearly a year of working experiences in __software testing__ at a tech company...
-<br>
-<br>-
-🛠 I'm looking forward to develop my skills to become a ***Developer*** 😜 specialize in __Frontend Development, Data science & AI__ and also continuously learning new things.
 
 
 ## 🌐 Socials:
